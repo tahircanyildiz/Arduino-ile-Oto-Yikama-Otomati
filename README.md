@@ -17,7 +17,11 @@ Geliştirlen projenin amacı kısaca şöyledir;
 5-	Kullanıcı seçim yaptıkça malzeme sayısı güncellenir ve bakiye güncellenir.Eğer yapmak istediği işlem için parası yetmiyorsa LCD display üzerinde “Yetersiz Bakiye” uyarısı yazacaktır.Eğer yapmak istediği işlemde malzeme tükendiyse LCD display üzerinde “Yetersiz Malzeme” uyarısı yazacaktır.
 
 6-	Kullanıcı yaptığı seçimlerden sonra 5.butona basarak onay verecektir ve ardından programtarafından  1 ile 4 arasında rastgele bir sayı oluşturulacaktır.Eğer oluşturulan random sayı 2 ise “Para Sıkıştı” uyarısı verip işlemleri resetlemesi istenecektir.Bunun için 6.butona basması istenecektir ve 6.butona bastığında para iadesi yapılacak, yaptığı işlemler sıfırlanacak ve bakiye yükleme ekranına geri dönülecektir.
+
 7-	Oluşan sayı 2’den farklı ise LCD display üzerinde  “işlemler Yapıldı” yazacaktır.
+
 8-	Yapılan işlemler sonunda kalan bakiyesi ekrana yazdırılacaktır.
+
 9-	Kasada olan paralara göre para üstü en az banknot ile verilecektir.
+
 10-	Para üstü verildikten sonra tekrar 1.moda dönülecektir ve “Hoşgeldiniz..”,”Bakiye giriniz..” yazdırılıp en başa dönüp yeni müşteri üzerinden işlem yapılacaktır.
